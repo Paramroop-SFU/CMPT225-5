@@ -1,0 +1,13 @@
+1. {"This", 1}
+2. {"a", 2}
+3. {"is", 2}
+4. {"or", 1}
+5. {"test", 1}
+6. {"test?", 1}
+7. {"this", 1}
+
+Number of different words: 7
+    Total number of words: 9
+       Most frequent word: a 2
+     Number of singletons: 5 (71%)
+     
